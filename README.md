@@ -1,7 +1,8 @@
 # README
 ### calculator
 * add
-* sub 
-* mul 
+* sub
+* mul
 
 test git diff
+test atom
